@@ -53,7 +53,7 @@ namespace BTree
             TreeViewConverter.ConvertToTreeView(tree, treeView1);
             FileName.Text = "File Selected: " + Path.GetFileName(workingPath);
             columnsSize = File.ReadAllLines(workingPath)[0]
-                .Split(new[] { ' ' }, StringSplitOptions.RemoveEmptyEntries)
+                .Split(new[] { ',' }, StringSplitOptions.RemoveEmptyEntries)
                 .Length;
         }
 
@@ -201,6 +201,7 @@ namespace BTree
                                 break;
                             }
                         }
+                        sr.Close();
                     }
                     else
                     {
@@ -349,7 +350,6 @@ namespace BTree
         {
             for (int i = 0; i < node.children.Length; i++)
             {
-                //check if childre[i] is null
                 if (node.children[i] != null)
                 {
                     TreeNode childNode = new TreeNode(node.children[i].KeysToString());

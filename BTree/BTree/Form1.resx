@@ -61,7 +61,7 @@
     <value>17, 17</value>
   </metadata>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
-  <data name="CreateNewDB.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+  <data name="CreateNewDB.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/node-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAYAAAD0eNT6AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
         YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAACx+SURBVHhe7d0L0PfpfN/xPcZaxDqN0FRbypiI43Q2xQgh
@@ -257,7 +257,7 @@
         nqAeoc5Qt1Q8M3+1jjvu/wOaSLECs6mWPgAAAABJRU5ErkJggg==
 </value>
   </data>
-  <data name="OpenDB.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+  <data name="OpenDB.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/node-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAYAAAD0eNT6AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
         YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAC8KSURBVHhe7d0JnCRFmffxjMy5OYdTDoGRQ1AUEEFBEEXQ
@@ -461,7 +461,7 @@
         c4DciU6R/Fz++xZJ/SODhRLtDkcIISRdHpPUF/pfSr4o/310UVR7SO/mZ/owVf/saE3JMwghhCRL3Xd5
         Fz4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
         AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-        AAAAANqnKP4/884AQQv/x/8AAAAASUVORK5CYII=
+        AAAAANqnKP4/884AQQv/node/8AAAAASUVORK5CYII=
 </value>
   </data>
   <metadata name="openFileDialog1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
